@@ -15,4 +15,4 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[discord]: https://discord.com/channels/@me/740927657683714121
+[discord]: https://discord.com/channels/@Rajvir47#4741
