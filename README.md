@@ -8,5 +8,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games like Grand Theft Auto 5️⃣
 <br />
+<a href="https://github.com/RajvirSingh1313">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvirSingh1313&hide_langs_below=1" />
+</a>
+<a href="https://github.com/RajvirSingh1313/cpython">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajvirSingh1313&repo=cpython" />
+</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvirSingh1313&hide_langs_below=1" />
+<div align="center">
+ 
