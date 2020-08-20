@@ -3,7 +3,7 @@
 
 <img align="left" alt="RajvirSingh1313's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajvirSingh1313&show_icons=true&hide_border=true" />
 
-## I'm a Student👨🏽‍🎓, Learner📖, Programmer💻, Gamer🎮!
+## I'm a Student👨🏽‍🎓, Learner📖, Programmer, Gamer🎮!
 - 🔭 I’m LOVER of a Python Forever ❤
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work with other python programmers 👨‍💻
