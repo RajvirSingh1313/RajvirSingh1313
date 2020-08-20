@@ -15,7 +15,7 @@
 </a>
 <a href="https://github.com/RajvirSingh1313/cpython">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajvirSingh1313&repo=cpython" />
+</a>
   <img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width=200/>
 </a>
-
 <div align="center">
