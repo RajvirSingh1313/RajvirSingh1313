@@ -11,11 +11,11 @@
 - ⚡ Fun fact: I love to play games like Grand Theft Auto 5️⃣ 🎮
 <br />
 <a href="https://github.com/RajvirSingh1313">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvirSingh1313&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvirSingh1313&hide_langs_below=1" />
 </a>
-  <img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width=200/>
+  <img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width=400/>
 </a>
 <a href="https://github.com/RajvirSingh1313/cpython">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajvirSingh1313&repo=cpython" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RajvirSingh1313&repo=cpython" />
 
 <div align="center">
