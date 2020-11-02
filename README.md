@@ -17,5 +17,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RajvirSingh1313&repo=cpython" />
 <div align="center">
 </a>
-  <img align="center" src="https://github.com/RajvirSingh1313/RajvirSingh1313/blob/master/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f67697068792e676966.gif" width=1000/>
+  <img align="center" src="https://github.com/RajvirSingh1313/RajvirSingh1313/blob/master/Pic.gif" width=1000/>
 </a>
