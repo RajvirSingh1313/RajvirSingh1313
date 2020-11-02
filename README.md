@@ -17,11 +17,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RajvirSingh1313&repo=cpython" />
 <div align="center">
 </a>
-  <img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width=300/>
-<div align="right">
+  <img align="center" src="https://github.com/RajvirSingh1313/RajvirSingh1313/blob/master/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f67697068792e676966.gif" width=1000/>
 </a>
-  <img align="center" src="https://www.logigroup.ma/images/modules/technologies/dev/developpement_java_maroc.gif" width=200/>
-<div align="center">
-</a>
-  <img align="left" src="https://freepngimg.com/thumb/c++/2-2-c++-png-clipart.png" width=300/>
-<div align="left">
