@@ -1,4 +1,6 @@
 ### Hi there, I'm ਰਾਜਵੀਰ ਸਿੰਘ - aka RajvirSingh1313 👋
+<img src='https://github.com/RajvirSingh1313/RajvirSingh1313/blob/master/Rajvir%20Singh.gif?raw=true' width='2000"' height='350"'>
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <img align="left" alt="RajvirSingh1313's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajvirSingh1313&show_icons=true&hide_border=true" />
