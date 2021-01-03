@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love to play games like Grand Theft Auto 5️⃣ 🎮
 <br />
 <a href="https://github.com/RajvirSingh1313">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=RajvirSingh1313" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvirSingh1313" />
 
 <a href="https://github.com/RajvirSingh1313/cpython">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RajvirSingh1313&repo=cpython" />
