@@ -10,7 +10,7 @@
 - 🔭 I’m LOVER of a Python Forever ❤
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work with other programmers 👨‍💻
-- 🥅 2020 Goals: Contribute more to Open Source projects 🤝
+- 🥅 2021 Goals: Contribute more to Open Source projects 🤝
 - ⚡ Fun fact: I love to play games like Grand Theft Auto 5️⃣ 🎮
 <br />
 <a href="https://github.com/RajvirSingh1313">
