@@ -14,7 +14,7 @@
 <br />
 
 ## Technologies & Languages:
-<p align="left">
+<div align="left">
   <img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -52,8 +52,9 @@
   <img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-</p>
+</div>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rajvirsingh1313&show_icons=true&theme=tokyonight&locale=en" alt="rajvirsingh1313" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajvirsingh1313&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rajvirsingh1313" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajvirsingh1313&theme=dark" alt="rajvirsingh1313" /></p>
+
+<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=rajvirsingh1313&show_icons=true&theme=tokyonight&locale=en" alt="rajvirsingh1313" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajvirsingh1313&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rajvirsingh1313" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajvirsingh1313&theme=dark" alt="rajvirsingh1313" /></div>
 
 ![](https://komarev.com/ghpvc/?username=rajvirsingh1313&color=1a1b27)
