@@ -8,10 +8,10 @@
 
 ## I'm a Student, Learner, Programmer, Gamer!
 - 🔭 I’m Developer ❤
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Quantum Development
 - 👯 I’m looking to work with other programmers 👨‍💻
 - 🥅 2021 Goals: Contribute more to Open Source projects 🤝
-- ⚡ Fun fact: I love to play games 🎮
+- ⚡ Fun fact: Want to become Material Scientist 🧑‍🔬
 <br />
 
 ## Technologies & Languages:
