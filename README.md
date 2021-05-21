@@ -1,4 +1,4 @@
-<img src='https://github.com/RajvirSingh1313/RajvirSingh1313/blob/master/RAJVIR%20SINGH.gif?raw=true' width='2000"' height='350"'>
+<img src='https://github.com/RajvirSingh1313/RajvirSingh1313/blob/master/banner.png' width='2000"' height='350"'>
 
 
 ### Hi there, I'm ਰਾਜਵੀਰ ਸਿੰਘ - aka RajvirSingh1313 👋
