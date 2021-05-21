@@ -44,15 +44,17 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Asus-Tuf_A15-yellow?style=for-the-badge&logo=asus&logoColor=red"/>
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AMD-Ryzen_7_4800h-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-353535?style=for-the-badge&logo=figma&logoColor=ff5861"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+</div>
+
+## Hardware:
+<div align="left">
+  <img src="https://img.shields.io/badge/Asus-Tuf_A15-yellow?style=for-the-badge&logo=asus&logoColor=red"/>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMD-Ryzen_7_4800h-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 </div>
 <br/>
 <hr/>
