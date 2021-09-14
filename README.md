@@ -2,7 +2,7 @@
 
 
 ### Hi there, I'm ਰਾਜਵੀਰ ਸਿੰਘ - aka RajvirSingh1313 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
-### Want to talk ? Come on discord - RajvirSingh1313#1313
+### Want to talk ? Come on discord - RajvirSingh1313#4707
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
