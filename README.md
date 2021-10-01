@@ -8,14 +8,14 @@
 
 ## I'm a Student, Learner, Programmer!
 - 🔭 I’m Developer ❤
-- 🌱 I’m currently learning Quantum Development
+- 🌱 I’m currently learning Quantum Computing
 - 👯 I’m looking to work with other programmers 👨‍💻
 - 🥅 2021 Goals: Contribute more to Open Source projects 🤝
 - ⚡ Fun fact: Want to become Material Scientist 🧑‍🔬
 <br />
 
 ## Things I love or I know:
-### I can pretty much do work in any programming language, I mean I am a quick learner 🌱, So yeah I can even learn quantum computing if you like!
+### I can pretty much do work in any programming language, I mean I am a quick learner 🌱
 <div align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
