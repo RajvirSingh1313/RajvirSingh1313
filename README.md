@@ -2,7 +2,9 @@
 
 
 ### Hi there, I'm ਰਾਜਵੀਰ ਸਿੰਘ - aka RajvirSingh1313 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
-### Want to talk ? Come on discord - RajvirSingh1313#4707
+### Connect with me 
+<a target="_blank" href="https://discordapp.com/users/RajvirSingh1313#4707"><img width="50" src="https://user-images.githubusercontent.com/63385587/139178074-84a6c550-fb2c-4fd0-a16a-24a24b7bd987.png"/></a>
+<a target="_blank" href="https://dev.to/rajvirsingh1313"><img width="50" src="https://user-images.githubusercontent.com/63385587/139179152-37035800-8502-4db2-a5a5-026fed534f25.png"/></a>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
