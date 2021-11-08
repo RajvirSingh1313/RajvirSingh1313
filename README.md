@@ -32,14 +32,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
-
-## Hardware:
-<div align="left">
-  <img src="https://img.shields.io/badge/Asus-Tuf_A15-yellow?style=for-the-badge&logo=asus&logoColor=red"/>
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AMD-Ryzen_7_4800h-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RASPBERRY%20PI%20400-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white"/>
-</div>
 <br/>
 <hr/>
 <div><img align="left" src="https://github-readme-stats.vercel.app/api?username=rajvirsingh1313&show_icons=true&theme=tokyonight&locale=en" alt="rajvirsingh1313" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajvirsingh1313&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rajvirsingh1313" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajvirsingh1313&theme=dark" alt="rajvirsingh1313" />
