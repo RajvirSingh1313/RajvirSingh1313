@@ -13,7 +13,7 @@
 - 🔭 I’m Developer ❤
 - 🌱 I’m currently learning Quantum Computing
 - 👯 I’m looking to work with other programmers 👨‍💻
-- 🥅 2021 Goals: Contribute more to Open Source projects 🤝
+- 🥅 2022 Goals: Contribute more to Open Source projects 🤝
 - ⚡ Fun fact: Want to become Material Scientist 🧑‍🔬
 <br />
 
